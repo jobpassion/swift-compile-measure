@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "997B4015F32D66AFE4C1A97D"
+               BuildableName = "swift-compile-measure"
+               BlueprintName = "swift-compile-measure"
+               ReferencedContainer = "container:swift-compile-measure.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "997B4015F32D66AFE4C1A97D"
+            BuildableName = "swift-compile-measure"
+            BlueprintName = "swift-compile-measure"
+            ReferencedContainer = "container:swift-compile-measure.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
